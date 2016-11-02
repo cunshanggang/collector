@@ -1,0 +1,9 @@
+<?php
+/**
+ * Created by PhpStorm.
+ * User: ´åÉÏ¸Ú
+ * Date: 2015/12/25
+ * Time: 13:16
+ */
+
+echo "5050";
